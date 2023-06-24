@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Sample"
-subtitle: "A longer explanation of stuff"
+title:  "Why, How and the future!"
+subtitle: "Let's talk about this website!"
 date:   2021-08-02 21:21:21 +0530
 categories: ["general"]
 ---
