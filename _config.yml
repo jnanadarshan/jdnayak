@@ -1,16 +1,16 @@
 # Site settings
-title: Pudhina
+title: JDNAYAK
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+ The home of innovation and interest.
 
 baseurl: "/jdnayak" # the subpath of your site, e.g. /blog/
 url: "https://jnanadarshan.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Jnanadarshan Nayak
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: JD Nayak
+  github: jnanadarshan
+  linkedin: jnanadarshan
+  email: webmaster@jdnayak.com
 
 
 # Syntax highlighting
