@@ -3,8 +3,8 @@ title: JDNAYAK
 description: >
  The home of innovation and interest.
 
-baseurl: "/jdnayak" # the subpath of your site, e.g. /blog/
-url: "https://jnanadarshan.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://jdnayak.com" # the base hostname & protocol for your site
 
 author:
   fullname: JD Nayak
