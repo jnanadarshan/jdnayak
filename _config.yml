@@ -3,7 +3,7 @@ title: JDNAYAK
 description: >
  The home of innovation and interest.
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jdnayak.com" # the base hostname & protocol for your site
 
 author:
