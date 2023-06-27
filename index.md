@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The home of innovation and interest
-subtitle: You'll run out of days to learn what's out there!
+title: Jnanadarshan Nayak
+subtitle: The home of my intrests and innovation!
 sitemap:
   priority: 0.9
 ---
