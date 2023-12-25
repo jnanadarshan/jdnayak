@@ -1,7 +1,7 @@
 # JD Nayak
 A simple, minimal [Jekyll](jekyllrb.com) theme from [Knhash](https://knhash.github.io/Pudhina/) for a personal web page and blog, focusing on white space and readability
 
-[Click here](https://knhash.github.io/Pudhina/) to see the theme in action. Note that the download PDF button redirects to 404 due to lack of the file. This is by design, to demonstrate the Glitch effect therein.
+
 
 ## Screenshots
 
